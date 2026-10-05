@@ -1,0 +1,9 @@
+false
+true
+true
+true
+true
+true
+"DivisionByZeroException","11","49"
+"Fraction","138","211"
+"TestFraction","472","128"

@@ -1,0 +1,23 @@
+#BlueJ package file
+dependency1.from=ShapeTest
+dependency1.to=ShapeList
+dependency1.type=UsesDependency
+package.editor.height=900
+package.editor.width=700
+package.editor.x=0
+package.editor.y=0
+package.numDependencies=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=700
+target1.editor.width=400
+target1.editor.x=0
+target1.editor.y=0
+target1.height=50
+target1.name=Shape
+target1.showInterface=false
+target1.type=AbstractTarget
+target1.width=80
+target1.x=629
+target1.y=340
+package.numTargets=1

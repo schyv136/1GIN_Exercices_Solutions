@@ -1,0 +1,10 @@
+fred;430
+ff;400
+ff;385
+datdatdat;375
+eloelo;370
+ff;365
+haut;300
+ff;265
+fred;265
+fred;155

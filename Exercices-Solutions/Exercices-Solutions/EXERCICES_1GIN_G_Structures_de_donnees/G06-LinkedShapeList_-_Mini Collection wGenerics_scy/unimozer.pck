@@ -1,0 +1,12 @@
+false
+true
+true
+true
+true
+false
+"ShapeList","431","126"
+"shapes.Shape","629","340"
+"simpleLinkedList.Node","218","446"
+"simpleLinkedList.SimpleLinkedListIterator","280","264"
+"ShapeTest","723","78"
+"simpleLinkedList.SimpleLinkedList","331","366"

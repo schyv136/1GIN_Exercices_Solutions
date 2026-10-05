@@ -1,0 +1,17 @@
+false
+true
+true
+true
+true
+true
+"ShapeList","755","332"
+"shapes.Triangle","1256","353"
+"shapes.Shape","1063","508"
+"simpleLinkedList.Node","390","249"
+"shapes.Rectangle","1063","429"
+"simpleLinkedList.SimpleLinkedListIterator","337","67"
+"ShapeTest","859","11"
+"shapes.Computable","1063","314"
+"shapes.Square","1063","610"
+"shapes.Circle","1063","258"
+"simpleLinkedList.SimpleLinkedList","41","73"

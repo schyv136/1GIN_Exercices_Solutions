@@ -1,0 +1,4 @@
+5,5,red
+2,9,yellow
+7,12,yellow
+7,10,blue

@@ -1,0 +1,14 @@
+false
+true
+true
+true
+true
+true
+"shapes.Triangle","768","371"
+"shapes.Shape","398","184"
+"shapes.Rectangle","898","402"
+"ShapeTest","38","46"
+"shapes.Computable","771","235"
+"shapes.ShapeList","37","206"
+"shapes.Circle","1045","439"
+"shapes.Square","1074","511"

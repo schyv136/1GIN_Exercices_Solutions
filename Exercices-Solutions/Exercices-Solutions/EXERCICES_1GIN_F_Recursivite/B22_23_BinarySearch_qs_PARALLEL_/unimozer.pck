@@ -1,0 +1,9 @@
+false
+true
+true
+true
+true
+true
+"QuickSortParallel","10","337"
+"Test","21","20"
+"RecursiveTabOperations","152","99"

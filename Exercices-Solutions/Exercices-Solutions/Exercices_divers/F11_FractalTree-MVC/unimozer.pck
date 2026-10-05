@@ -1,0 +1,9 @@
+false
+true
+true
+true
+true
+true
+"MainFrame","517","140"
+"DrawPanel","153","296"
+"FractalTree","148","645"

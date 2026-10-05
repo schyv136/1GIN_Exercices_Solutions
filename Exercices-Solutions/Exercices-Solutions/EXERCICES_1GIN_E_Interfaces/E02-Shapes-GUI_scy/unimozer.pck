@@ -1,0 +1,15 @@
+false
+true
+true
+true
+true
+false
+"ShapeList","361","676"
+"Circle","134","378"
+"Square","34","301"
+"Triangle","181","457"
+"Computable","204","33"
+"ShapeTest","25","609"
+"Rectangle","296","575"
+"ShapeListIterator","10","44"
+"Shape","207","125"

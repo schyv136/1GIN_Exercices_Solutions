@@ -1,0 +1,4 @@
+Serge2;135
+jempy;120
+serge;90
+sdf;0

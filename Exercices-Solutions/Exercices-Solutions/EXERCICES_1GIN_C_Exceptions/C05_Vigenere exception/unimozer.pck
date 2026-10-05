@@ -1,0 +1,10 @@
+false
+true
+true
+true
+true
+true
+"TestVigenere","20","64"
+"Vigenere","159","135"
+"EmptyEncryptionKeyException","368","270"
+"TestChar","276","61"

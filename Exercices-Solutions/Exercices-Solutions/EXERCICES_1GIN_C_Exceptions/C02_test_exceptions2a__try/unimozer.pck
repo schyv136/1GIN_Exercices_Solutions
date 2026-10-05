@@ -1,0 +1,9 @@
+false
+true
+true
+true
+true
+true
+"CriticalClassCallerLevel2","46","48"
+"CriticalClass","367","222"
+"CriticalClassCaller","217","143"

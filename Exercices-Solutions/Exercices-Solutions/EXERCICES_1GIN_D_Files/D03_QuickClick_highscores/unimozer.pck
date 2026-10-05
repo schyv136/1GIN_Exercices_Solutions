@@ -1,0 +1,17 @@
+false
+true
+true
+true
+true
+true
+"Randomizer","238","374"
+"HighScores","306","514"
+"MainFrame","10","374"
+"LargeTarget","309","246"
+"TargetList","492","360"
+"GrowingTarget","10","236"
+"DrawPanel","10","10"
+"Target","525","10"
+"SmallTarget","10","488"
+"Sound","10","780"
+"HighScore","10","602"

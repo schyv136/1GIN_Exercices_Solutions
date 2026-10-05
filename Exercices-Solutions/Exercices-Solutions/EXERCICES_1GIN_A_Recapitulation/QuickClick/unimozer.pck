@@ -1,0 +1,15 @@
+false
+true
+true
+true
+true
+true
+"Randomizer","1226","467"
+"MainFrame","46","6"
+"LargeTarget","1013","686"
+"TargetList","473","366"
+"GrowingTarget","1224","686"
+"DrawPanel","194","136"
+"MainApplet","10","136"
+"Target","802","382"
+"SmallTarget","802","686"

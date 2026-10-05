@@ -1,0 +1,16 @@
+false
+true
+true
+true
+true
+false
+"IteratorRemoveTest","635","18"
+"ShapeList","590","669"
+"Square","34","301"
+"Circle","134","378"
+"Triangle","181","457"
+"Computable","207","3"
+"ShapeTest","506","758"
+"Rectangle","348","592"
+"ShapeListIterator","700","563"
+"Shape","207","125"

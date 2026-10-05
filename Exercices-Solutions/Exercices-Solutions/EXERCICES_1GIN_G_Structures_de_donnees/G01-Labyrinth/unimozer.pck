@@ -1,0 +1,16 @@
+false
+true
+true
+true
+true
+true
+"MainFrame","96","43"
+"Blocks.Block","1225","932"
+"Blocks.Start","752","1099"
+"DrawPanel","42","775"
+"Blocks.BlockMap","935","287"
+"Blocks.Brick","748","800"
+"Blocks.End","752","1194"
+"Blocks.Water","751","999"
+"Blocks.Grass","749","895"
+"sound.Sound","47","1018"
