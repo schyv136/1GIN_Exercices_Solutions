@@ -8,7 +8,7 @@ import java.io.Serializable;
  * @author	Fred Faber
  * @version	17/08/2011
  */
-public class Fraction implements Serializable, Comparable, Cloneable
+public class Fraction implements Serializable, Comparable<Fraction>, Cloneable
 {
 
     /** 
@@ -208,18 +208,18 @@ public class Fraction implements Serializable, Comparable, Cloneable
     
     //**************************** Comparable **********************************
     @Override
-    public int compareTo(Object o) {
-        //Première idée: return getDecimal() - ((Fraction)o).getDecimal();
+    public int compareTo(Fraction f) {
+        //Première idée: return getDecimal() - (f.getDecimal();
         //Malheureusement, on a alors un double et on ne peut pas simplement utiliser un (int) ou round()
         /*
         //donc:
-        double diff = getDecimal() - ((Fraction)o).getDecimal();
+        double diff = getDecimal() - (f).getDecimal();
         if      (diff>0)  return 1;
         else if (diff==0) return 0;
         else              return -1;
         */
         //Autre possibilité :
-        return ((Double)getDecimal()).compareTo( ((Fraction)o).getDecimal() );
+        return ((Double)getDecimal()).compareTo(f.getDecimal() );
         
         //throw new UnsupportedOperationException("Not supported yet.");
     }

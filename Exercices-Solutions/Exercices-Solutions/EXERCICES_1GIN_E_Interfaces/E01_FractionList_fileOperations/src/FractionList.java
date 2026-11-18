@@ -60,23 +60,16 @@ public class FractionList implements Cloneable {
 
 //************************************ Text File ***************************************
     public void saveToTextFile(String fileName) throws FileNotFoundException, IOException {
-        PrintWriter out = null; // not initialized yet
-        try {
-            out = new PrintWriter(new FileWriter(fileName));
+        try(PrintWriter out = new PrintWriter(new FileWriter(fileName))) {
             for (Fraction f : alFractions) {
                 out.println(f.numerator + ";" + f.denominator);
-            } //for
-        } finally {
-            if (out != null) {
-                out.close(); // that's why 'out' has to be known outside the first try block
-                System.out.println("saved file closed");
             }
         }
 
     }
 
     public void loadFromTextFile(String fileName) throws FileNotFoundException, IOException {
-        try ( BufferedReader in = new BufferedReader(new FileReader(fileName))) {
+        try (BufferedReader in = new BufferedReader(new FileReader(fileName))) {
             alFractions = new ArrayList<>(); //remove current fractions
             String line;
             while ((line = in.readLine()) != null) {
