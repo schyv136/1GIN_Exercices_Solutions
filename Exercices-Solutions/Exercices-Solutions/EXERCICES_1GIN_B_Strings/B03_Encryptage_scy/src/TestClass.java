@@ -11,9 +11,9 @@ public class TestClass {
 
     public static void main(String[] args) {
         String s = "ABCD efgh,IJKL.MNOP-QRST_UVWX+YZ";
-        String secret = Cryptor.encrypt(s, "Secret");
+        String secret = Cryptor.encrypt(s, "secret");
         System.out.println(secret);
-        String clear = Cryptor.decrypt(secret, "Secret");
+        String clear = Cryptor.decrypt(secret, "secret");
     }
 
 }

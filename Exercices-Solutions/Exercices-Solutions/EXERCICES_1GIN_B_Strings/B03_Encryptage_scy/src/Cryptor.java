@@ -14,7 +14,7 @@ public class Cryptor {
         int keyIndex = 0;
         for (int i = 0; i < message.length(); i++) {
             char currentChar = message.charAt(i);
-            int shift = ALPHABET.indexOf(key.charAt(keyIndex)) + 1;
+            int shift = ALPHABET.indexOf(key.charAt(keyIndex))+1;
             if (currentChar >= 'A' && currentChar <= 'Z') {
                 int code = (ALPHABET.indexOf(currentChar) + shift) % 26;
                 strEncrypted = strEncrypted + ALPHABET.charAt(code);

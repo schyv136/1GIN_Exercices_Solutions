@@ -31,4 +31,5 @@ public class Dots {
     {
         return alDots;
     }
+
 }

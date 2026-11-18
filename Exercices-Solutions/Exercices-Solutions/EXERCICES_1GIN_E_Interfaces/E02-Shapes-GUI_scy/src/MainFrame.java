@@ -16,6 +16,7 @@ public class MainFrame extends javax.swing.JFrame {
     private int countMyButtons=2;
     private int countMyTextFields=2;
 
+
     /**
      * Creates new form MainFrame
      */

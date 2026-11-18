@@ -6,15 +6,11 @@ package graphics;
 
 import java.awt.Color;
 import java.awt.Graphics;
-import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
 import javax.swing.JFileChooser;
 import javax.swing.JOptionPane;
 import javax.swing.filechooser.FileFilter;
 import javax.swing.filechooser.FileNameExtensionFilter;
-import logic.*;
 import logic.Dot;
 import logic.Grid;
 
