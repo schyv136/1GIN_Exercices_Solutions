@@ -1,6 +1,6 @@
 import java.awt.Color;
 
-public abstract class Shape implements Computable,Comparable<Computable>
+public abstract class Shape implements Computable
 {
 	private double x;
 	private double y;
@@ -17,6 +17,7 @@ public abstract class Shape implements Computable,Comparable<Computable>
 		this.color = color;
 	}
 
+        @Override
 	public int compareTo(Computable other)
 	{
 		double diff = getSurface() - other.getSurface();
